@@ -1,0 +1,13 @@
+I"†<h1 id="news-archive">News Archive</h1>
+
+<h2 class="c-archives__year" id="2019-ref">2019</h2>
+<ul class="c-archives__list">
+<li class="c-archives__item">
+  Jun 29, 2019: <a href="/Recipe-Documentation/2019/hello-world/">Two Thousand Nineteen</a>
+  </li>
+
+
+<li class="c-archives__item">
+  Jun 28, 2019: <a href="/Recipe-Documentation/2019/welcome/">Welcome to MkDocs Jekyll</a>
+  </li></ul>
+:ET

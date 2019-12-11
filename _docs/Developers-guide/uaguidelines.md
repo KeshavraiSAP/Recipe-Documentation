@@ -1,0 +1,3 @@
+The <a href="https://wiki.wdf.sap.corp/wiki/display/NDW/UA+for+Bluestone" target="_blank">UA Guideline</a> is the base for creating Recipes in the SAP Cloud Platform Cockpit for end user consumption to maintain consistencies across different services which provide recipes. So all "Service owners" please make sure you work with your topic UA's following this guideline to provide us content in the excel template.
+
+It is important to be followed as it ensures a streamlined content management process, as this content will be maintained in the respective CMS and automatically published into the SLM content repository from which we serve the Recipe catalogue page in future.

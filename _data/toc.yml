@@ -1,0 +1,37 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Overview"
+      url: "docs/Overview/overview"
+      children:
+        - title: About
+          url: "docs/Overview/overview"
+    - title: "Architecture"
+      url: "docs/Architecture/overview"
+      children:
+        - title: Overview
+          url: "docs/Architecture/overview"
+    - title: "Contribution"
+      url: "docs/Contribution/own-documentation/implement-a-documentation-recipe"
+      children:
+        - title: Own Your Documentation
+          url: "docs/Contribution/own-documentation/implement-a-documentation-recipe"
+        - title: Own Your Wizard
+          url: "docs/Contribution/own-wizard/implement-a-recipe-wizard"
+          children:
+            - title: Own Your Documentation
+              url: "docs/Contribution/own-documentation/implement-a-documentation-recipe"
+    - title: "Developers Guide"
+      url: "docs/Developers-guide/recipe-setup" 
+      children:
+        - title: Own Your Documentation
+          url: "docs/Developers-guide/recipe-setup"
+- title: Pages
+  url: pages
+  links:
+    - title: "Overview"
+      url: "docs/Overview/overview"
+      children:
+        - title: About
+          url: "docs/Overview/overview"
+    

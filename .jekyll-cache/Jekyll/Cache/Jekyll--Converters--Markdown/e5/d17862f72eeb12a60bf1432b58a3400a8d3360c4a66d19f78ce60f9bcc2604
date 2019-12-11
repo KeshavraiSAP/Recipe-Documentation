@@ -1,0 +1,16 @@
+I"ƒ<h1 id="overview">Overview</h1>
+<p>Happy to see you here. Now, lets start automating the recipe following few simple steps:</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Be ready with <a href="https://github.wdf.sap.corp/pages/ADI/cockpitDocs/getting-started/local-development-setup/" target="_blank">local cockpit set up</a></p>
+
+<h2 id="lets-start">Letâ€™s Start</h2>
+<p>To get a wizard running, You need to follow 3 steps:</p>
+
+<ol>
+  <li><a href="./define-wizard.md">Define your wizard</a></li>
+  <li><a href="./define-endpoint.md">Define your endpoint</a></li>
+  <li><a href="./register-wizard.md">Register the wizard</a></li>
+</ol>
+
+:ET

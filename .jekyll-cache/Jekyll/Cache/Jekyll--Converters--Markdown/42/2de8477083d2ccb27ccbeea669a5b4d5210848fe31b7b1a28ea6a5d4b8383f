@@ -1,0 +1,66 @@
+I"j<h1 id="extra">Extra</h1>
+
+<p>Welcome to the SAP Cloud Platform Recipe Documentation pages! Here you can quickly jump to a 
+particular page.</p>
+
+<div class="section-index">
+    <hr class="panel-line" />
+            
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/about">Overview</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/archive/">Articles</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/">Documentation</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/pages/">Extra</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/feed.xml"></a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/">Getting Started</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/assets/css/main.css"></a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/assets/js/main.js"></a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/news/">News</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/search/">Search</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/assets/js/search.js"></a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/sitemap.xml"></a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/tags/">Tags Index</a></h5>
+    <p></p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/redirects.json"></a></h5>
+    <p></p>
+    </div>
+</div>
+:ET

@@ -1,0 +1,107 @@
+I"X<h1 id="adding-your-recipe-document">Adding your recipe document</h1>
+<h2 id="note">NOTE</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- This applies to Recipe Owners and UA.
+- This section explains the process for adding a Recipe.
+</code></pre></div></div>
+
+<h2 id="pitch"><em>Pitch</em></h2>
+<ul>
+  <li>You have a technical need to automate a scope, then pitch in your idea by filling <a href="../files/recipe-opfs.xlsx" download="">One-pager Fact sheet</a>.</li>
+  <li>Once filled, contact <a href="../be-a-contributor/contact.md">us</a>.</li>
+  <li>Let’s meet and talk about Portfolio Fit, Prioritization, Scope, timeline.</li>
+</ul>
+
+<h2 id="define"><em>Define</em></h2>
+<ul>
+  <li>Recipe UA authors the recipe using this <a href="../files/recipe_content.xlsx" download="">format</a>.</li>
+  <li>Recipe UX Designer creates the recipe mock screens.</li>
+  <li>Recipe implementation team evaluates the required api and accessibility.</li>
+</ul>
+
+<h2 id="things-to-consider">Things to consider</h2>
+<h3 id="recipe-phases"><em>Recipe Phases</em></h3>
+<p>Recipe supports different visibility for controlling the recipe availability in different landscape. Below Table explains each combination:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Visibility</th>
+      <th>Is Trial Supported</th>
+      <th>Status</th>
+      <th>Productive Landscape</th>
+      <th>Trial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Private</td>
+      <td>False</td>
+      <td>Draft, Beta, Released</td>
+      <td>Dev</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Private</td>
+      <td>True</td>
+      <td>Draft, Beta, Released</td>
+      <td>Dev</td>
+      <td>Dev CF Trial</td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>False</td>
+      <td>Draft</td>
+      <td>Dev</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>True</td>
+      <td>Draft</td>
+      <td>Dev</td>
+      <td>Dev CF Trial</td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>False</td>
+      <td>Beta</td>
+      <td>Dev, Staging, Canary</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>True</td>
+      <td>Beta</td>
+      <td>Dev, Staging, Canary</td>
+      <td>Dev CF Trial, Staging CF Trial</td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>False</td>
+      <td>Released</td>
+      <td>Dev, Staging, Canary, Factory</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Public</td>
+      <td>True</td>
+      <td>Released</td>
+      <td>Dev, Staging, Canary, Factory</td>
+      <td>Dev CF Trial, Staging CF Trial , Factory CF Trial</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="image-content"><em>Image Content</em></h3>
+<p>Below guidelines needs to be followed for images:</p>
+
+<ol>
+  <li>Image file names should be context based and relates to the image.</li>
+  <li>Image should have transparent background.</li>
+  <li>Image needs to be compressed/optimized for network calls.</li>
+  <li>Image should be less prone to getting outdated in a short time. For example, an image of app and app changes frequently, then we have maintenance overhead.</li>
+</ol>
+
+<h3 id="additional-links"><em>Additional Links</em></h3>
+<p>The links provided needs to be working all the time. If the link is about to change, then you need to notify <a href="../be-a-contributor/contact.md">us</a> in advance or do the redirection of old link to the new updated link.</p>
+:ET

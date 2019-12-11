@@ -1,0 +1,69 @@
+I"<h1 id="overview">OVERVIEW</h1>
+<h2 id="recipe">Recipe</h2>
+
+<p>Cloud Platform has mechanisms today like Templates, Standard Content, Tutorials, Trainings etc.
+<strong>Recipes</strong> harmonizes, unifies and scales these approaches via</p>
+
+<ul>
+  <li><strong>Standard Way</strong> of Description</li>
+  <li>Consolidated Index facilitating <strong>Easy Discovery</strong></li>
+  <li>Connected to <strong>SLM</strong> entities like Products &amp; Components</li>
+  <li>Ability to perform <strong>pre-requisite checks</strong>, <strong>estimate cost</strong></li>
+  <li>Ability to invoke from <strong>multiple experiences</strong></li>
+  <li>Ability to produce <strong>CP Artifacts</strong> for further usage</li>
+  <li>Connected to <strong>Missions</strong> for <strong>seamless adoption Experience</strong></li>
+  <li>Enables <strong>Goal-driven</strong>, <strong>narrow</strong> in Scope &amp; <strong>technical</strong> in nature approach</li>
+  <li>Offers <strong>automated guidance</strong> with <strong>curated</strong> (opinionated) configuration (best &amp; common practice)</li>
+  <li>Optionally, <strong>guided interactive steps</strong> that allow the <strong>customization</strong> of configuration choices</li>
+  <li>Targets the <strong>Implementor persona</strong> with completion time in <strong>minutes</strong> resulting in <strong>configured cloud resources</strong></li>
+</ul>
+
+<p> </p>
+
+<p><img src="assets/images/getting-started.png" alt="getting-started.jpg" /></p>
+
+<h2 id="personas">Personas</h2>
+<p><img src="assets/images/RecipePersonas.png" alt="recipepersonas.jpg" /></p>
+
+<h2 id="lifecycle"><em>Lifecycle</em></h2>
+
+<p><img src="assets/images/recipephases.png" alt="recipephases" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><a href="contribution/own-documentation/implement-a-documentation-recipe.md#pitch">Pitch</a></th>
+      <th><a href="./contribution/own-documentation/implement-a-documentation-recipe.md#define">Define</a></th>
+      <th><a href="contribution/own-wizard/implement-a-recipe-wizard.md">Implement</a></th>
+      <th>Operate</th>
+      <th>Evolve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fill  <a href="contribution/own-documentation/files/recipe-opfs.xlsx" download="">One-pager Fact sheet</a></td>
+      <td>Author the Recipe and create wizard Mocks</td>
+      <td>Implement the Wizard, Endpoint, Pre-flight Check</td>
+      <td>Marketing and Staggered Rollout</td>
+      <td>Incorporate Learnings</td>
+    </tr>
+    <tr>
+      <td>Review with <a href="contribution/be-a-contributor/contact.md">us</a></td>
+      <td>Review and come up with implementation plan</td>
+      <td>Unit test and Automate the integration Test</td>
+      <td>Usage Analytics</td>
+      <td>Additional Ideas</td>
+    </tr>
+    <tr>
+      <td>Portfolio Fit Prioritization</td>
+      <td>Send the <a href="contribution/own-documentation/files/recipe_content.xlsx" download="">format</a> to <a href="contribution/be-a-contributor/contact.md">us</a></td>
+      <td>Decision Gate</td>
+      <td>Feedback</td>
+      <td>Improve / Sustain / Retire</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="demo-video">Demo Video</h2>
+<p>This <a href="https://jam4.sapjam.com/groups/U5XgX7ZKCnurOdUTniDaSJ/documents/PgVfcIqBxK7eQMwrLanhiS/video_viewer" target="_blank">video</a> demonstrates Steampunk recipe.</p>
+:ET

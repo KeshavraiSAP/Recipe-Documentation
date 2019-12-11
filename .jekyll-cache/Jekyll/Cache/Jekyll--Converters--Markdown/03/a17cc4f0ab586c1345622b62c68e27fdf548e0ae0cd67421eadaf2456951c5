@@ -1,0 +1,29 @@
+I",<h1 id="recipe-module-setup">Recipe Module Setup</h1>
+
+<h2 id="local-development-setup">Local Development Setup</h2>
+
+<p><a href="https://github.wdf.sap.corp/pages/ADI/cockpitDocs/getting-started/local-development-setup/" target="_blank">Cockpit set up</a></p>
+
+<h2 id="recipe-module-structure">Recipe Module Structure</h2>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.
+└── cockpit-module-recipe
+    └── src
+        ├── main
+        │   ├── java
+        │   └── js
+        │        └── cockpit
+        │            └── recipe
+        │                ├── core
+        │                ├── cis
+        |                   |──public
+        |                     |──tasks
+        |                     |──api
+        │                ├── iot
+        │                └── mobile
+        |                └── ...
+        └── test
+            ├── java
+            └── js
+</code></pre></div></div>
+:ET

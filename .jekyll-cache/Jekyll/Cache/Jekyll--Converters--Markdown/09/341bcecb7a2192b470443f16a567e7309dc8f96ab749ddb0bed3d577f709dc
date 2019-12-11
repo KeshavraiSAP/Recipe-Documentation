@@ -1,0 +1,16 @@
+I"n<h1 id="overview">OVERVIEW</h1>
+
+<p><img src="./images/HighLevel.png" alt="HighLevel.png" /></p>
+
+<h2 id="components"><strong>Components</strong></h2>
+
+<ul>
+  <li><strong>Recipe</strong> : This is a SAP Cloud Platform cockpit based module acting as user experience layer for recipe. This consists of different reusable utilities for recipe implementors.</li>
+  <li><strong>Recipe Service</strong> : This is a Cloud Foundry backend service supporting the backend operations for recipe. This is still <strong>not productive</strong>.</li>
+  <li><strong>SLM</strong> : This is the SAP Cloud Platform market place service which stores the recipe contents.</li>
+  <li><strong>Authoring Tool</strong> : Tool for recipe authors to document the recipe</li>
+</ul>
+
+<h2 id="building-blocks"><strong>Building Blocks</strong></h2>
+<p><img src="images/buildingblocks.png" alt="model" /></p>
+:ET

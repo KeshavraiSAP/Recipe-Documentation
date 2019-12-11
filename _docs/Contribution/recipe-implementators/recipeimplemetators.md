@@ -1,0 +1,10 @@
+Below are contact(s) for recipe:
+
+| Recipe                                  | Primary Contact                                                                      | Team DL                                                                   | BCP             | NGP Component | Status                |
+| --------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------- | ------------- | --------------------- |
+| Configure a Mobile Application Backend  | [Qiang Zhang](mailto:qia.zhang@sap.com), [Hai-Yan Zhao](mailto:hai-yan.zhao@sap.com) | [DL SMP3 Admin SH3](mailto:DL_54AD7E62FD84A00B40000025@exchange.sap.corp) | MOB-CLD-CF      |               | Public Released Trial |
+| Build a Micro App for SAP Mobile Cards  | [Markus Brakweh](mailto:markus.brakweh@sap.com), [Yong Xu](mailto:yong.xu@sap.com)   | [DL SMP3 Admin SRM](mailto:DL_54AD7EB7FD84A00AE8000008@global.corp.sap)   | MOB-CLD-CF      |               | Public Released Trial |
+| Create a Mobile App Without Coding      | [Qiang Zhang](mailto:qia.zhang@sap.com), [Hai-Yan Zhao](mailto:hai-yan.zhao@sap.com) | [DL SMP3 Admin SH3](mailto:DL_54AD7E62FD84A00B40000025@exchange.sap.corp) | MOB-CLD-CF      |               | Public Released       |
+| Get started with SAP Leonardo IoT       | [Nicole Pompejus](mailto:nicole.pompejus@sap.com)                                    |                                                                           | IOT-BSV-OPS-ONB |               | Public Released       |
+| Prepare an Account for ABAP Development |                                                                                      |                                                                           |                 |               | Public Released       |
+| Prepare an Account for Development      |                                                                                      |                                                                           |                 |               | Public Released       |

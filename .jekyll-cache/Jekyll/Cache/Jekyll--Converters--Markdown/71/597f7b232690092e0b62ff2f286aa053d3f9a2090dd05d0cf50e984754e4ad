@@ -1,0 +1,30 @@
+I"‘<h1 id="documentation">Documentation</h1>
+
+<p>Welcome to the SAP Cloud Platform Recipe Documentation pages! Here you can quickly jump to a 
+particular page.</p>
+
+<div class="section-index">
+    <hr class="panel-line" />
+            
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/Architecture/overview">Architecture</a></h5>
+    <p>Overview about recipe architecture.</p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/Contribution/own-documentation/implement-a-documentation-recipe">Own Your Documentation</a></h5>
+    <p>Own Your Documentation.</p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/Contribution/own-wizard/implement-a-recipe-wizard">Own Wizard</a></h5>
+    <p>Own your wizard.</p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/Developers-guide/recipe-setup">Recipe Module Setup</a></h5>
+    <p>Overview about Recipe Module Setup.</p>
+    </div>        
+    <div class="entry">
+    <h5><a href="/Recipe-Documentation/docs/Overview/overview">OVERVIEW</a></h5>
+    <p>Overview about recipes.</p>
+    </div>
+</div>
+:ET
